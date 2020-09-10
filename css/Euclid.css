@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Euclid Square';
+    src: local('Euclid Square Light'), local('Euclid-Square-Light'),
+        url('../fonts/Euclid/EuclidSquare-Light.woff2') format('woff2'),
+        url('../fonts/Euclid/EuclidSquare-Light.woff') format('woff'),
+        url('../fonts/Euclid/EuclidSquare-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
